@@ -17,6 +17,15 @@ export default {
         ],
       },
     },
+    colors: {
+      'ash-grey': '#BCC0AD',
+      'cafe-noir': '#4D3912',
+      'dark-goldenrod': '#C5911E',
+      'ebony': '#515B41',
+      'saffron': '#F0BB08',
+      'platinum': '#D3D9D7',
+      'anti-flash-white': '#EFEFEF',
+    },
   },
   plugins: [],
 } satisfies Config;
