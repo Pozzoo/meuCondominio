@@ -25,6 +25,7 @@ export default {
       'saffron': '#F0BB08',
       'platinum': '#D3D9D7',
       'anti-flash-white': '#EFEFEF',
+      'black': '#000000',
     },
   },
   plugins: [],
